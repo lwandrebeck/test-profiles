@@ -38,10 +38,6 @@
           <Value>yolov4/yolov4.onnx</Value>
         </Entry>
         <Entry>
-          <Name>fcn-resnet101-11</Name>
-          <Value>fcn-resnet101-11/model.onnx</Value>
-        </Entry>
-        <Entry>
           <Name>super-resolution-10</Name>
           <Value>super_resolution/super_resolution.onnx</Value>
         </Entry>
